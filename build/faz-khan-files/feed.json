@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Faz Khan",
+    "description": "",
+    "home_page_url": "https://fazkhan.com",
+    "feed_url": "https://fazkhan.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "fazkhan"
+    },
+    "items": [
+    ]
+}
